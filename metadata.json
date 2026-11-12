@@ -1,0 +1,6 @@
+{
+  "name": "Artisan Trust Marketplace",
+  "description": "Certified and vouched informal trade artisans with verified credentials, practical skill assessments, and direct WhatsApp connect.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
